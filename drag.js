@@ -1,4 +1,4 @@
-// caisenlei
+// caisenlei 测试一下merge
 
 function drag(id){
 	var obj = document.getElementById(id);
