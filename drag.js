@@ -1,4 +1,4 @@
-// caisenlei 测试一下merge
+// 在公司测试提交git
 
 function drag(id){
 	var obj = document.getElementById(id);
