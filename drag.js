@@ -1,4 +1,4 @@
-// caisenlei 测试一下merge
+// caisenlei 测试一下22222
 
 function drag(id){
 	var obj = document.getElementById(id);
