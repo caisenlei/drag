@@ -1,4 +1,6 @@
-// 在公司测试提交git
+
+// 在公司测试提交git解决冲突
+
 
 function drag(id){
 	var obj = document.getElementById(id);
